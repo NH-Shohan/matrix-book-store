@@ -1,0 +1,17 @@
+/* Books Card */
+.card-book-container{
+  padding: 15px;
+}
+.card-books img{
+  height: 350px;
+}
+
+/* Spinner */
+#spinner{
+  display: none;
+}
+
+/* Message */
+#error-message{
+  display: none;
+}
