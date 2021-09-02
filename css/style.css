@@ -2,6 +2,9 @@
 .card-book-container{
   padding: 15px;
 }
+.card-book-container{
+  box-shadow: 5px 5px 15px #b5b5b5;
+}
 .card-books img{
   height: 350px;
 }
